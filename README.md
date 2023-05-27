@@ -1,35 +1,35 @@
-<h1 align="center">Hi, I'm John Doe 👋</h1>
+<!-- Main Header -->
+<h1 align="center">Hi, I'm Nawaraj Shrestha! 👋</h1>
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for coding and problem-solving. I enjoy working on a wide range of projects and exploring new technologies.
+<!-- Introduction -->
+<p align="center">
+  Welcome to my GitHub profile! I'm a BSc (Hons) Computing student with a passion for coding and problem-solving. I enjoy exploring various aspects of computer science and learning new technologies.
+</p>
 
-## About Me
+## 🌱 About Me
 
-- 🎓 I hold a degree in Computer Science.
-- 💻 I have experience in multiple programming languages, including Python, Java, and JavaScript.
-- 🌱 I'm constantly learning and keeping up with the latest industry trends.
-- ⚡ Fun fact: When I'm not coding, you can find me playing guitar or exploring the great outdoors.
+- 🎓 Currently pursuing my BSc (Hons) in Computing.
+- 💻 Proficient in programming languages like Java, Dart, and Python.
+- 🌟 Experienced in web development using HTML, CSS, and JavaScript.
+- 📱 Skilled in mobile app development using Flutter.
+- 🗄️ Knowledgeable in database management systems like MySQL, PostgreSQL, and MongoDB.
+- ⚡ Familiar with Java Spring Boot for backend development.
+- 🚀 Experienced in Agile Scrum methodology for project management.
+- 📜 Version control with Git and GitHub.
+- ⚙️ Additional tools: NetBeans IDE for Java development.
+- 
+<!-- Contact Me -->
+## 📫 Contact Me
 
-## Projects
+Feel free to reach out to me through the following channels:
 
-Here are a few highlights of my projects:
+- 📧 Email: [nwj.shrestha@gmail.com](mailto:nwj.shrestha@gmail.com)
+- 💼 LinkedIn: [Nawaraj Shrestha](https://www.linkedin.com/in/nwj002/)
+- 🌐 Personal Website: [www.nawarajshrestha02.com.np](https://www.nawarajshrestha02.com.np)
 
-- [Project Name](https://github.com/username/project1): Brief project description.
-- [Project Name](https://github.com/username/project2): Brief project description.
+I'm always open to new opportunities and exciting collaborations!
 
-## Skills
-
-- Programming languages: Python, Java, JavaScript
-- Frameworks and libraries: Django, React, Node.js
-- Databases: MySQL, PostgreSQL, MongoDB
-- Version Control: Git, GitHub
-- Other tools and technologies: HTML/CSS, RESTful APIs, Docker, AWS
-
-## Contact Me
-
-- 📧 Email: [john.doe@example.com](mailto:john.doe@example.com)
-- 💼 LinkedIn: [John Doe](https://www.linkedin.com/in/johndoe/)
-- 🌐 Personal Website: [www.johndoe.com](https://www.johndoe.com)
-
-Feel free to explore my repositories and reach out if you have any questions or would like to collaborate on a project. I'm always open to new opportunities and exciting challenges!
-
-Happy coding! ✨
+<!-- Footer -->
+<p align="center">
+  Happy coding! ✨
+</p>
