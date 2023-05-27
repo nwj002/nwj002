@@ -17,7 +17,6 @@
 - 🚀 Experienced in Agile Scrum methodology for project management.
 - 📜 Version control with Git and GitHub.
 - ⚙️ Additional tools: NetBeans IDE for Java development.
-- 
 <!-- Contact Me -->
 ## 📫 Contact Me
 
