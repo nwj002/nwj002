@@ -32,3 +32,4 @@ I'm always open to new opportunities and exciting collaborations!
 <p align="center">
   Happy coding! ✨
 </p>
+<img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
