@@ -6,17 +6,15 @@
   Welcome to my GitHub profile! I'm a BSc (Hons) Computing student with a passion for coding and problem-solving. I enjoy exploring various aspects of computer science and learning new technologies.
 </p>
 
-## 🌱 About Me
-
-- 🎓 Currently pursuing my BSc (Hons) in Computing.
-- 💻 Proficient in programming languages like Java, Dart, and Python.
-- 🌟 Experienced in web development using HTML, CSS, and JavaScript.
-- 📱 Skilled in mobile app development using Flutter.
-- 🗄️ Knowledgeable in database management systems like MySQL, PostgreSQL, and MongoDB.
-- ⚡ Familiar with Java Spring Boot for backend development.
-- 🚀 Experienced in Agile Scrum methodology for project management.
-- 📜 Version control with Git and GitHub.
-- ⚙️ Additional tools: NetBeans IDE for Java development.
+🌱 About Me
+🎓 Pursuing a BSc (Hons) in Computing.
+💻 Proficient in Java, Dart, Python.
+🌟 Skilled in web development.
+📱 Experienced in mobile app development with Flutter.
+🗄️ Knowledgeable in database management systems (MySQL, PostgreSQL, MongoDB).
+⚡ Familiar with Java Spring Boot (backend development).
+🚀 Experienced in Agile Scrum methodology.
+📜 Version control with Git and GitHub.
 <!-- Contact Me -->
 ## 📫 Contact Me
 
