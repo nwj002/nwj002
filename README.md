@@ -3,7 +3,7 @@
 
 <!-- Introduction -->
 <p align="center">
-  Welcome to my GitHub profile! I'm a BSc (Hons) Computing student with a passion for coding and problem-solving. I enjoy exploring various aspects of computer science and learning new technologies.
+  Welcome to my GitHub profile!  I am a computing student with a passion for problem-solving and learning. I am particularly interested in UX/UI design and web development and am always looking for new opportunities to develop my skills and gain experience in these areas. I am excited to be a part of the technology industry and look forward to contributing to the development of innovative and user-friendly products in the future. I am eager to learn more in this field and make a meaningful impact.
 </p>
 
 🌱 About Me
