@@ -7,8 +7,8 @@
 </p>
 
 🌱 About Me
--🎓 Pursuing a BSc (Hons) in Computing.
--💻 Proficient in Java, Dart, Python.
+- 🎓 Pursuing a BSc (Hons) in Computing.
+- 💻 Proficient in Java, Dart, Python.
 🌟 Skilled in web development.
 📱 Experienced in mobile app development with Flutter.
 🗄️ Knowledgeable in database management systems (MySQL, PostgreSQL, MongoDB).
