@@ -9,12 +9,12 @@
 🌱 About Me
 - 🎓 Pursuing a BSc (Hons) in Computing.
 - 💻 Proficient in Java, Dart, Python.
-🌟 Skilled in web development.
-📱 Experienced in mobile app development with Flutter.
-🗄️ Knowledgeable in database management systems (MySQL, PostgreSQL, MongoDB).
-⚡ Familiar with Java Spring Boot (backend development).
-🚀 Experienced in Agile Scrum methodology.
-📜 Version control with Git and GitHub.
+- 🌟 Skilled in web development.
+- 📱 Experienced in mobile app development with Flutter.
+- 🗄️ Knowledgeable in database management systems (MySQL, PostgreSQL, MongoDB).
+- ⚡ Familiar with Java Spring Boot (backend development).
+- 🚀 Experienced in Agile Scrum methodology.
+- 📜 Version control with Git and GitHub.
 <!-- Contact Me -->
 ## 📫 Contact Me
 
