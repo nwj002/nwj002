@@ -1,6 +1,8 @@
-<!-- Main Header -->
+
 <h1 align="center">Hi, I'm Nawaraj Shrestha! 👋
+  
 🌱 About Me
+  
 - 🎓 Pursuing a BSc (Hons) in Computing.
 - 💻 Proficient in Java, Dart, Python.
 - 🌟 Skilled in web development.
