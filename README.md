@@ -26,3 +26,5 @@ I'm always open to new opportunities and exciting collaborations!
   Happy coding Everyone! ✨
 </p>
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
+<img src="https://emoji.discadia.com/emojis/9fa603df-4864-439b-b78d-544c7f78cdca.gif" />
