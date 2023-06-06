@@ -23,6 +23,6 @@ I'm always open to new opportunities and exciting collaborations!
 
 <!-- Footer -->
 <p align="center">
-  Happy coding! ✨
+  Happy coding Everyone! ✨
 </p>
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
