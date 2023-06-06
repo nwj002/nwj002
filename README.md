@@ -1,5 +1,5 @@
 <!-- Main Header -->
-<h1 align="center">Hi, I'm Nawaraj Shrestha! 👋</h1>
+<h1 align="center">Hi, I'm Nawaraj Shrestha! <img src="https://emoji.discadia.com/emojis/9fa603df-4864-439b-b78d-544c7f78cdca.gif" />👋</h1>
 
 🌱 About Me
 - 🎓 Pursuing a BSc (Hons) in Computing.
@@ -27,4 +27,4 @@ I'm always open to new opportunities and exciting collaborations!
 </p>
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-<img src="https://emoji.discadia.com/emojis/9fa603df-4864-439b-b78d-544c7f78cdca.gif" />
+
