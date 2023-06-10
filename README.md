@@ -10,7 +10,7 @@
   - ⚡ Familiar with Java Spring Boot (backend development). 
   - 🚀 Experienced in Agile Scrum methodology. 
   - 📜 Version control with Git and GitHub. -->
-<!-- Contact Me --> -->
+<!-- Contact Me --> 
 ## 📫 Contact Me
 
 Feel free to reach out to me through the following channels:
