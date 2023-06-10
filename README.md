@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nawaraj Shrestha! 👋
   
- <!-- About Me -->
-🌱 About Me
+<!--  <!-- About Me -->
+<!-- 🌱 About Me
   - 🎓 Pursuing a BSc (Hons) in Computing.
   - 💻 Proficient in Java, Dart, Python. 
   - 🌟 Skilled in web development. 
@@ -9,8 +9,8 @@
   - 🗄️ Knowledgeable in database management systems (MySQL, PostgreSQL, MongoDB). 
   - ⚡ Familiar with Java Spring Boot (backend development). 
   - 🚀 Experienced in Agile Scrum methodology. 
-  - 📜 Version control with Git and GitHub.
-<!-- Contact Me -->
+  - 📜 Version control with Git and GitHub. -->
+<!-- Contact Me --> -->
 ## 📫 Contact Me
 
 Feel free to reach out to me through the following channels:
