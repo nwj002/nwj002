@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi, I'm Nawaraj Shrestha! 👋
   
+ <!-- About Me -->
 🌱 About Me
   
 -  🎓 Pursuing a BSc (Hons) in Computing.
@@ -21,8 +21,6 @@ Feel free to reach out to me through the following channels:
 - 🌐 Personal Website: [nawarajshrestha02.com.np/](https://nawarajshrestha02.com.np/)
 
 I'm always open to new opportunities and exciting collaborations!
- 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nwj002&" alt="nwj002" /></p>
 
 <!-- Footer -->
 <p align="center">
