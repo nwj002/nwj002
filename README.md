@@ -8,11 +8,11 @@
 - 💼 LinkedIn: [Nawaraj Shrestha](https://www.linkedin.com/in/nwj002/)
 - 🌐 Personal Website: [nawarajshrestha02.com.np/](https://nawarajshrestha02.com.np/)
 
-I'm always open to new opportunities and exciting collaborations!
+## I'm always open to new opportunities and exciting collaborations!🕊️
 
 <!-- Footer -->
 <p align="center">
-  ## Happy coding Everyone! ✨
+   Happy coding Everyone! ✨
 </p>
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
