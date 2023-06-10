@@ -3,14 +3,14 @@
   
 🌱 About Me
   
-- 🎓 Pursuing a BSc (Hons) in Computing.
-- 💻 Proficient in Java, Dart, Python.
-- 🌟 Skilled in web development.
-- 📱 Experienced in mobile app development with Flutter.
-- 🗄️ Knowledgeable in database management systems (MySQL, PostgreSQL, MongoDB).
-- ⚡ Familiar with Java Spring Boot (backend development).
-- 🚀 Experienced in Agile Scrum methodology.
-- 📜 Version control with Git and GitHub.
+-  🎓 Pursuing a BSc (Hons) in Computing.
+-  💻 Proficient in Java, Dart, Python.
+-  🌟 Skilled in web development.
+-  📱 Experienced in mobile app development with Flutter.
+-  🗄️ Knowledgeable in database management systems (MySQL, PostgreSQL, MongoDB).
+-  ⚡ Familiar with Java Spring Boot (backend development).
+-  🚀 Experienced in Agile Scrum methodology.
+-  📜 Version control with Git and GitHub.
 <!-- Contact Me -->
 ## 📫 Contact Me
 
@@ -21,6 +21,8 @@ Feel free to reach out to me through the following channels:
 - 🌐 Personal Website: [nawarajshrestha02.com.np/](https://nawarajshrestha02.com.np/)
 
 I'm always open to new opportunities and exciting collaborations!
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nwj002&" alt="nwj002" /></p>
 
 <!-- Footer -->
 <p align="center">
