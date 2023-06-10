@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Nawaraj Shrestha! 👋
 
-## 📫 Contact Me
 
-Feel free to reach out to me through the following channels:
+
+## 📫 Feel free to reach out to me through the following channels:
 
 - 📧 Email: [nwj.shrestha@gmail.com](mailto:nwj.shrestha@gmail.com)
 - 💼 LinkedIn: [Nawaraj Shrestha](https://www.linkedin.com/in/nwj002/)
