@@ -15,5 +15,5 @@
    Happy coding Everyone! ✨
 </p>
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
-https://github-readme-stats.vercel.app/api/top-langs/?username=nwj002&layout=compact&theme=vision-friendly-dark)](https://github.com/nwj002
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwj002&layout=compact&theme=vision-friendly-dark)](https://github.com/nwj002)
