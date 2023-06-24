@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Nawaraj Shrestha! a student and a learner 👋
 
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwj002&layout=compact&theme=vision-friendly-dark&bg_color=00000000)](https://github.com/nwj002)
+// ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwj002&layout=compact&theme=vision-friendly-dark&bg_color=00000000)](https://github.com/nwj002)
 
 
 ## 📫 Feel free to reach out to me through the following channels:
@@ -17,4 +17,3 @@
 </p>
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nwj002&" alt="nwj002" /></p>
