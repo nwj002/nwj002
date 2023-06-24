@@ -16,3 +16,5 @@
    Happy coding Everyone! ✨
 </p>
 <img src="https://media2.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nwj002&" alt="nwj002" /></p>
