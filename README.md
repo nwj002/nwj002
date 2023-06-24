@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Nawaraj Shrestha! a student and a learner 👋
 
-// ## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nwj002&layout=compact&theme=vision-friendly-dark&bg_color=00000000)](https://github.com/nwj002)
-
 
 ## 📫 Feel free to reach out to me through the following channels:
 
